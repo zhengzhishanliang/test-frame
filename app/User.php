@@ -19,5 +19,6 @@ class User
     public function test1()
     {
         echo 'test1';
+        echo 'test3';
     }
 }

@@ -10,4 +10,9 @@ class User
     {
         echo "hello php";
     }
+
+    public function test2()
+    {
+        echo 'test2';
+    }
 }

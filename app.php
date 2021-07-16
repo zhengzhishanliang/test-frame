@@ -2,6 +2,7 @@
 echo '写点啥test1....';
 echo '写点啥test1....';
 echo '吟唱test2 feature';
+echo '31b52231';
 
 echo 'master.....';
 echo 'adfadsfasd';

@@ -1,0 +1,13 @@
+{
+    "name": "anyuan/test-frame",
+    "description": "just so so",
+    "type": "project",
+    "require": {
+        "psr/container": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

@@ -25,6 +25,7 @@ class User
     {
         echo 'test1';
         echo 'test3';
+        echo 'mmmmmmmmmmm';
         echo 'mmmmmmm';
     }
 }

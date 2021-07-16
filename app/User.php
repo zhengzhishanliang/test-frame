@@ -15,4 +15,9 @@ class User
     {
         echo 'test2';
     }
+
+    public function test1()
+    {
+        echo 'test1';
+    }
 }

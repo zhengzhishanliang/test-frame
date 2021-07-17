@@ -20,3 +20,5 @@ echo '修改了冲突';
 echo 'hhehadsfdsaf';
 
 echo '太假';
+
+echo 'master';
